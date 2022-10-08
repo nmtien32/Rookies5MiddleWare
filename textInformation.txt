@@ -1,0 +1,1 @@
+scheme:http	 Hostlocalhost:7175	 Path/	 QuerryString: 	 RequestBodyMicrosoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
